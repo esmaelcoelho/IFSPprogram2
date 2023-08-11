@@ -1,0 +1,8 @@
+C:\Users\esmau\source\repos\AreaQuadrado\AreaQuadrado\bin\Debug\AreaQuadrado.exe.config
+C:\Users\esmau\source\repos\AreaQuadrado\AreaQuadrado\bin\Debug\AreaQuadrado.exe
+C:\Users\esmau\source\repos\AreaQuadrado\AreaQuadrado\bin\Debug\AreaQuadrado.pdb
+C:\Users\esmau\source\repos\AreaQuadrado\AreaQuadrado\obj\Debug\AreaQuadrado.csproj.AssemblyReference.cache
+C:\Users\esmau\source\repos\AreaQuadrado\AreaQuadrado\obj\Debug\AreaQuadrado.csproj.SuggestedBindingRedirects.cache
+C:\Users\esmau\source\repos\AreaQuadrado\AreaQuadrado\obj\Debug\AreaQuadrado.csproj.CoreCompileInputs.cache
+C:\Users\esmau\source\repos\AreaQuadrado\AreaQuadrado\obj\Debug\AreaQuadrado.exe
+C:\Users\esmau\source\repos\AreaQuadrado\AreaQuadrado\obj\Debug\AreaQuadrado.pdb
