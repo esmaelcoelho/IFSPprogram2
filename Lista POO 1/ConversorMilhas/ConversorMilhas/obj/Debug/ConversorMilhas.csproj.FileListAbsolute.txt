@@ -1,0 +1,8 @@
+C:\Users\aluno\source\repos\ConversorMilhas\ConversorMilhas\obj\Debug\ConversorMilhas.csproj.AssemblyReference.cache
+C:\Users\aluno\source\repos\ConversorMilhas\ConversorMilhas\obj\Debug\ConversorMilhas.csproj.SuggestedBindingRedirects.cache
+C:\Users\aluno\source\repos\ConversorMilhas\ConversorMilhas\obj\Debug\ConversorMilhas.csproj.CoreCompileInputs.cache
+C:\Users\aluno\source\repos\ConversorMilhas\ConversorMilhas\bin\Debug\ConversorMilhas.exe.config
+C:\Users\aluno\source\repos\ConversorMilhas\ConversorMilhas\bin\Debug\ConversorMilhas.exe
+C:\Users\aluno\source\repos\ConversorMilhas\ConversorMilhas\bin\Debug\ConversorMilhas.pdb
+C:\Users\aluno\source\repos\ConversorMilhas\ConversorMilhas\obj\Debug\ConversorMilhas.exe
+C:\Users\aluno\source\repos\ConversorMilhas\ConversorMilhas\obj\Debug\ConversorMilhas.pdb
