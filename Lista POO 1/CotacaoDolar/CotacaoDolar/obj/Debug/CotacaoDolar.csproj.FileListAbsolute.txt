@@ -1,0 +1,8 @@
+C:\Users\aluno\source\repos\CotacaoDolar\CotacaoDolar\bin\Debug\CotacaoDolar.exe.config
+C:\Users\aluno\source\repos\CotacaoDolar\CotacaoDolar\bin\Debug\CotacaoDolar.exe
+C:\Users\aluno\source\repos\CotacaoDolar\CotacaoDolar\bin\Debug\CotacaoDolar.pdb
+C:\Users\aluno\source\repos\CotacaoDolar\CotacaoDolar\obj\Debug\CotacaoDolar.csproj.AssemblyReference.cache
+C:\Users\aluno\source\repos\CotacaoDolar\CotacaoDolar\obj\Debug\CotacaoDolar.csproj.SuggestedBindingRedirects.cache
+C:\Users\aluno\source\repos\CotacaoDolar\CotacaoDolar\obj\Debug\CotacaoDolar.csproj.CoreCompileInputs.cache
+C:\Users\aluno\source\repos\CotacaoDolar\CotacaoDolar\obj\Debug\CotacaoDolar.exe
+C:\Users\aluno\source\repos\CotacaoDolar\CotacaoDolar\obj\Debug\CotacaoDolar.pdb
