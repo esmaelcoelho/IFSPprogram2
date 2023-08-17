@@ -1,0 +1,8 @@
+C:\Users\aluno\source\repos\QuadradoComDiagonal\QuadradoComDiagonal\obj\Debug\QuadradoComDiagonal.csproj.AssemblyReference.cache
+C:\Users\aluno\source\repos\QuadradoComDiagonal\QuadradoComDiagonal\obj\Debug\QuadradoComDiagonal.csproj.SuggestedBindingRedirects.cache
+C:\Users\aluno\source\repos\QuadradoComDiagonal\QuadradoComDiagonal\obj\Debug\QuadradoComDiagonal.csproj.CoreCompileInputs.cache
+C:\Users\aluno\source\repos\QuadradoComDiagonal\QuadradoComDiagonal\bin\Debug\QuadradoComDiagonal.exe.config
+C:\Users\aluno\source\repos\QuadradoComDiagonal\QuadradoComDiagonal\bin\Debug\QuadradoComDiagonal.exe
+C:\Users\aluno\source\repos\QuadradoComDiagonal\QuadradoComDiagonal\bin\Debug\QuadradoComDiagonal.pdb
+C:\Users\aluno\source\repos\QuadradoComDiagonal\QuadradoComDiagonal\obj\Debug\QuadradoComDiagonal.exe
+C:\Users\aluno\source\repos\QuadradoComDiagonal\QuadradoComDiagonal\obj\Debug\QuadradoComDiagonal.pdb
