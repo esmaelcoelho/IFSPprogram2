@@ -1,0 +1,8 @@
+C:\Users\aluno\source\repos\MaiordeDois\MaiordeDois\obj\Debug\MaiordeDois.csproj.AssemblyReference.cache
+C:\Users\aluno\source\repos\MaiordeDois\MaiordeDois\obj\Debug\MaiordeDois.csproj.SuggestedBindingRedirects.cache
+C:\Users\aluno\source\repos\MaiordeDois\MaiordeDois\obj\Debug\MaiordeDois.csproj.CoreCompileInputs.cache
+C:\Users\aluno\source\repos\MaiordeDois\MaiordeDois\bin\Debug\MaiordeDois.exe.config
+C:\Users\aluno\source\repos\MaiordeDois\MaiordeDois\bin\Debug\MaiordeDois.exe
+C:\Users\aluno\source\repos\MaiordeDois\MaiordeDois\bin\Debug\MaiordeDois.pdb
+C:\Users\aluno\source\repos\MaiordeDois\MaiordeDois\obj\Debug\MaiordeDois.exe
+C:\Users\aluno\source\repos\MaiordeDois\MaiordeDois\obj\Debug\MaiordeDois.pdb
