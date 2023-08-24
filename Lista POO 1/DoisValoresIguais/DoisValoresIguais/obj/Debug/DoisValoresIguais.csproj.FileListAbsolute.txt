@@ -1,0 +1,8 @@
+C:\Users\aluno\source\repos\DoisValoresIguais\DoisValoresIguais\bin\Debug\DoisValoresIguais.exe.config
+C:\Users\aluno\source\repos\DoisValoresIguais\DoisValoresIguais\bin\Debug\DoisValoresIguais.exe
+C:\Users\aluno\source\repos\DoisValoresIguais\DoisValoresIguais\bin\Debug\DoisValoresIguais.pdb
+C:\Users\aluno\source\repos\DoisValoresIguais\DoisValoresIguais\obj\Debug\DoisValoresIguais.csproj.AssemblyReference.cache
+C:\Users\aluno\source\repos\DoisValoresIguais\DoisValoresIguais\obj\Debug\DoisValoresIguais.csproj.SuggestedBindingRedirects.cache
+C:\Users\aluno\source\repos\DoisValoresIguais\DoisValoresIguais\obj\Debug\DoisValoresIguais.csproj.CoreCompileInputs.cache
+C:\Users\aluno\source\repos\DoisValoresIguais\DoisValoresIguais\obj\Debug\DoisValoresIguais.exe
+C:\Users\aluno\source\repos\DoisValoresIguais\DoisValoresIguais\obj\Debug\DoisValoresIguais.pdb
