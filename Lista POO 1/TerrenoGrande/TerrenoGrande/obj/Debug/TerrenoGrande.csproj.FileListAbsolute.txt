@@ -1,0 +1,8 @@
+C:\Users\aluno\source\repos\TerrenoGrande\TerrenoGrande\obj\Debug\TerrenoGrande.csproj.AssemblyReference.cache
+C:\Users\aluno\source\repos\TerrenoGrande\TerrenoGrande\obj\Debug\TerrenoGrande.csproj.SuggestedBindingRedirects.cache
+C:\Users\aluno\source\repos\TerrenoGrande\TerrenoGrande\obj\Debug\TerrenoGrande.csproj.CoreCompileInputs.cache
+C:\Users\aluno\source\repos\TerrenoGrande\TerrenoGrande\bin\Debug\TerrenoGrande.exe.config
+C:\Users\aluno\source\repos\TerrenoGrande\TerrenoGrande\bin\Debug\TerrenoGrande.exe
+C:\Users\aluno\source\repos\TerrenoGrande\TerrenoGrande\bin\Debug\TerrenoGrande.pdb
+C:\Users\aluno\source\repos\TerrenoGrande\TerrenoGrande\obj\Debug\TerrenoGrande.exe
+C:\Users\aluno\source\repos\TerrenoGrande\TerrenoGrande\obj\Debug\TerrenoGrande.pdb
