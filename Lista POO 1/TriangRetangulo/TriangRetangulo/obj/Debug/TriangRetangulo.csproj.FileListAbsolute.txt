@@ -1,0 +1,8 @@
+C:\Users\esmau\source\repos\TriangRetangulo\TriangRetangulo\bin\Debug\TriangRetangulo.exe.config
+C:\Users\esmau\source\repos\TriangRetangulo\TriangRetangulo\bin\Debug\TriangRetangulo.exe
+C:\Users\esmau\source\repos\TriangRetangulo\TriangRetangulo\bin\Debug\TriangRetangulo.pdb
+C:\Users\esmau\source\repos\TriangRetangulo\TriangRetangulo\obj\Debug\TriangRetangulo.csproj.AssemblyReference.cache
+C:\Users\esmau\source\repos\TriangRetangulo\TriangRetangulo\obj\Debug\TriangRetangulo.csproj.SuggestedBindingRedirects.cache
+C:\Users\esmau\source\repos\TriangRetangulo\TriangRetangulo\obj\Debug\TriangRetangulo.csproj.CoreCompileInputs.cache
+C:\Users\esmau\source\repos\TriangRetangulo\TriangRetangulo\obj\Debug\TriangRetangulo.exe
+C:\Users\esmau\source\repos\TriangRetangulo\TriangRetangulo\obj\Debug\TriangRetangulo.pdb
