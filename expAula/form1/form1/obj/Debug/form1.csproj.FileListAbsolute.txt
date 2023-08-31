@@ -1,0 +1,11 @@
+C:\Users\aluno\source\repos\form1\form1\bin\Debug\form1.exe.config
+C:\Users\aluno\source\repos\form1\form1\bin\Debug\form1.exe
+C:\Users\aluno\source\repos\form1\form1\bin\Debug\form1.pdb
+C:\Users\aluno\source\repos\form1\form1\obj\Debug\form1.csproj.AssemblyReference.cache
+C:\Users\aluno\source\repos\form1\form1\obj\Debug\form1.csproj.SuggestedBindingRedirects.cache
+C:\Users\aluno\source\repos\form1\form1\obj\Debug\form1.frm.resources
+C:\Users\aluno\source\repos\form1\form1\obj\Debug\form1.Properties.Resources.resources
+C:\Users\aluno\source\repos\form1\form1\obj\Debug\form1.csproj.GenerateResource.cache
+C:\Users\aluno\source\repos\form1\form1\obj\Debug\form1.csproj.CoreCompileInputs.cache
+C:\Users\aluno\source\repos\form1\form1\obj\Debug\form1.exe
+C:\Users\aluno\source\repos\form1\form1\obj\Debug\form1.pdb
