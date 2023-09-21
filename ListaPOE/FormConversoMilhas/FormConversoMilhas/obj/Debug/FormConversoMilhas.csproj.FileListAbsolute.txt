@@ -1,0 +1,11 @@
+C:\Users\aluno\source\repos\FormConversoMilhas\FormConversoMilhas\bin\Debug\FormConversoMilhas.exe.config
+C:\Users\aluno\source\repos\FormConversoMilhas\FormConversoMilhas\bin\Debug\FormConversoMilhas.exe
+C:\Users\aluno\source\repos\FormConversoMilhas\FormConversoMilhas\bin\Debug\FormConversoMilhas.pdb
+C:\Users\aluno\source\repos\FormConversoMilhas\FormConversoMilhas\obj\Debug\FormConversoMilhas.csproj.AssemblyReference.cache
+C:\Users\aluno\source\repos\FormConversoMilhas\FormConversoMilhas\obj\Debug\FormConversoMilhas.csproj.SuggestedBindingRedirects.cache
+C:\Users\aluno\source\repos\FormConversoMilhas\FormConversoMilhas\obj\Debug\FormConversoMilhas.Form1.resources
+C:\Users\aluno\source\repos\FormConversoMilhas\FormConversoMilhas\obj\Debug\FormConversoMilhas.Properties.Resources.resources
+C:\Users\aluno\source\repos\FormConversoMilhas\FormConversoMilhas\obj\Debug\FormConversoMilhas.csproj.GenerateResource.cache
+C:\Users\aluno\source\repos\FormConversoMilhas\FormConversoMilhas\obj\Debug\FormConversoMilhas.csproj.CoreCompileInputs.cache
+C:\Users\aluno\source\repos\FormConversoMilhas\FormConversoMilhas\obj\Debug\FormConversoMilhas.exe
+C:\Users\aluno\source\repos\FormConversoMilhas\FormConversoMilhas\obj\Debug\FormConversoMilhas.pdb
