@@ -1,0 +1,11 @@
+C:\Users\aluno\source\repos\formAreaRetangulo\formAreaRetangulo\obj\Debug\formAreaRetangulo.csproj.AssemblyReference.cache
+C:\Users\aluno\source\repos\formAreaRetangulo\formAreaRetangulo\obj\Debug\formAreaRetangulo.csproj.SuggestedBindingRedirects.cache
+C:\Users\aluno\source\repos\formAreaRetangulo\formAreaRetangulo\obj\Debug\formAreaRetangulo.Form1.resources
+C:\Users\aluno\source\repos\formAreaRetangulo\formAreaRetangulo\obj\Debug\formAreaRetangulo.Properties.Resources.resources
+C:\Users\aluno\source\repos\formAreaRetangulo\formAreaRetangulo\obj\Debug\formAreaRetangulo.csproj.GenerateResource.cache
+C:\Users\aluno\source\repos\formAreaRetangulo\formAreaRetangulo\obj\Debug\formAreaRetangulo.csproj.CoreCompileInputs.cache
+C:\Users\aluno\source\repos\formAreaRetangulo\formAreaRetangulo\bin\Debug\formAreaRetangulo.exe.config
+C:\Users\aluno\source\repos\formAreaRetangulo\formAreaRetangulo\bin\Debug\formAreaRetangulo.exe
+C:\Users\aluno\source\repos\formAreaRetangulo\formAreaRetangulo\bin\Debug\formAreaRetangulo.pdb
+C:\Users\aluno\source\repos\formAreaRetangulo\formAreaRetangulo\obj\Debug\formAreaRetangulo.exe
+C:\Users\aluno\source\repos\formAreaRetangulo\formAreaRetangulo\obj\Debug\formAreaRetangulo.pdb

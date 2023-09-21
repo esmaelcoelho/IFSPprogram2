@@ -1,0 +1,11 @@
+C:\Users\aluno\source\repos\formAreaTriangulo\formAreaTriangulo\bin\Debug\formAreaTriangulo.exe.config
+C:\Users\aluno\source\repos\formAreaTriangulo\formAreaTriangulo\bin\Debug\formAreaTriangulo.exe
+C:\Users\aluno\source\repos\formAreaTriangulo\formAreaTriangulo\bin\Debug\formAreaTriangulo.pdb
+C:\Users\aluno\source\repos\formAreaTriangulo\formAreaTriangulo\obj\Debug\formAreaTriangulo.csproj.AssemblyReference.cache
+C:\Users\aluno\source\repos\formAreaTriangulo\formAreaTriangulo\obj\Debug\formAreaTriangulo.csproj.SuggestedBindingRedirects.cache
+C:\Users\aluno\source\repos\formAreaTriangulo\formAreaTriangulo\obj\Debug\formAreaTriangulo.Form1.resources
+C:\Users\aluno\source\repos\formAreaTriangulo\formAreaTriangulo\obj\Debug\formAreaTriangulo.Properties.Resources.resources
+C:\Users\aluno\source\repos\formAreaTriangulo\formAreaTriangulo\obj\Debug\formAreaTriangulo.csproj.GenerateResource.cache
+C:\Users\aluno\source\repos\formAreaTriangulo\formAreaTriangulo\obj\Debug\formAreaTriangulo.csproj.CoreCompileInputs.cache
+C:\Users\aluno\source\repos\formAreaTriangulo\formAreaTriangulo\obj\Debug\formAreaTriangulo.exe
+C:\Users\aluno\source\repos\formAreaTriangulo\formAreaTriangulo\obj\Debug\formAreaTriangulo.pdb
