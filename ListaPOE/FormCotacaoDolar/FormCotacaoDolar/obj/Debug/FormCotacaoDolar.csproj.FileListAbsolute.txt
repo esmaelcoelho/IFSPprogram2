@@ -1,0 +1,11 @@
+C:\Users\aluno\source\repos\FormCotacaoDolar\FormCotacaoDolar\bin\Debug\FormCotacaoDolar.exe.config
+C:\Users\aluno\source\repos\FormCotacaoDolar\FormCotacaoDolar\bin\Debug\FormCotacaoDolar.exe
+C:\Users\aluno\source\repos\FormCotacaoDolar\FormCotacaoDolar\bin\Debug\FormCotacaoDolar.pdb
+C:\Users\aluno\source\repos\FormCotacaoDolar\FormCotacaoDolar\obj\Debug\FormCotacaoDolar.csproj.AssemblyReference.cache
+C:\Users\aluno\source\repos\FormCotacaoDolar\FormCotacaoDolar\obj\Debug\FormCotacaoDolar.csproj.SuggestedBindingRedirects.cache
+C:\Users\aluno\source\repos\FormCotacaoDolar\FormCotacaoDolar\obj\Debug\FormCotacaoDolar.Form1.resources
+C:\Users\aluno\source\repos\FormCotacaoDolar\FormCotacaoDolar\obj\Debug\FormCotacaoDolar.Properties.Resources.resources
+C:\Users\aluno\source\repos\FormCotacaoDolar\FormCotacaoDolar\obj\Debug\FormCotacaoDolar.csproj.GenerateResource.cache
+C:\Users\aluno\source\repos\FormCotacaoDolar\FormCotacaoDolar\obj\Debug\FormCotacaoDolar.csproj.CoreCompileInputs.cache
+C:\Users\aluno\source\repos\FormCotacaoDolar\FormCotacaoDolar\obj\Debug\FormCotacaoDolar.exe
+C:\Users\aluno\source\repos\FormCotacaoDolar\FormCotacaoDolar\obj\Debug\FormCotacaoDolar.pdb
